@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\SD\Projects\Gold_Badge_Console_App\01_RamenCafe_Console\bin\Debug\01_RamenCafe_Console.exe.config
+C:\ElevenFiftyProjects\SD\Projects\Gold_Badge_Console_App\01_RamenCafe_Console\bin\Debug\01_RamenCafe_Console.exe
+C:\ElevenFiftyProjects\SD\Projects\Gold_Badge_Console_App\01_RamenCafe_Console\bin\Debug\01_RamenCafe_Console.pdb
+C:\ElevenFiftyProjects\SD\Projects\Gold_Badge_Console_App\01_RamenCafe_Console\bin\Debug\Gold_Badge_Console_App.dll
+C:\ElevenFiftyProjects\SD\Projects\Gold_Badge_Console_App\01_RamenCafe_Console\bin\Debug\Gold_Badge_Console_App.pdb
+C:\ElevenFiftyProjects\SD\Projects\Gold_Badge_Console_App\01_RamenCafe_Console\obj\Debug\01_RamenCafe_Console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\SD\Projects\Gold_Badge_Console_App\01_RamenCafe_Console\obj\Debug\01_RamenCafe_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD\Projects\Gold_Badge_Console_App\01_RamenCafe_Console\obj\Debug\01_RamenCafe_Console.csproj.CopyComplete
+C:\ElevenFiftyProjects\SD\Projects\Gold_Badge_Console_App\01_RamenCafe_Console\obj\Debug\01_RamenCafe_Console.exe
+C:\ElevenFiftyProjects\SD\Projects\Gold_Badge_Console_App\01_RamenCafe_Console\obj\Debug\01_RamenCafe_Console.pdb

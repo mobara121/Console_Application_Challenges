@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\SD\Projects\Gold_Badge_Console_App\Gold_Badge_Console_App\bin\Debug\Gold_Badge_Console_App.dll
+C:\ElevenFiftyProjects\SD\Projects\Gold_Badge_Console_App\Gold_Badge_Console_App\bin\Debug\Gold_Badge_Console_App.pdb
+C:\ElevenFiftyProjects\SD\Projects\Gold_Badge_Console_App\Gold_Badge_Console_App\obj\Debug\01_RamenCafe_Repository.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\SD\Projects\Gold_Badge_Console_App\Gold_Badge_Console_App\obj\Debug\01_RamenCafe_Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SD\Projects\Gold_Badge_Console_App\Gold_Badge_Console_App\obj\Debug\Gold_Badge_Console_App.dll
+C:\ElevenFiftyProjects\SD\Projects\Gold_Badge_Console_App\Gold_Badge_Console_App\obj\Debug\Gold_Badge_Console_App.pdb
